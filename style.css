@@ -1,0 +1,11 @@
+body {
+  font-family: "Cairo", sans-serif;
+  background: #f9fafb;
+  color: #111;
+  margin: 20px;
+}
+h1 { color: #2563eb; }
+input, button { padding: 8px; margin: 5px; }
+table { border-collapse: collapse; width: 100%; margin-top: 20px; }
+th, td { border: 1px solid #ddd; padding: 8px; text-align: center; }
+th { background: #2563eb; color: white; }
